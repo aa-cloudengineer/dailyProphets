@@ -1,0 +1,109 @@
+en: {
+      title: "Prophet Yusuf (AS) - Dreams and Forgiveness",
+      content: `Prophet Yusuf (AS) was the beloved son of Prophet Yaqub (AS). When Yusuf was young, he had a dream of eleven stars, the sun, and moon bowing to him.
+
+His brothers became jealous of their father's love for Yusuf. They threw him into a well and told their father a wolf had killed him.
+
+A caravan found Yusuf and sold him as a slave in Egypt. Despite his hardships, Yusuf remained faithful to Allah and was known for his honesty.
+
+Allah blessed Yusuf with the ability to interpret dreams. When Pharaoh had troubling dreams, Yusuf explained they meant seven years of plenty followed by seven years of famine.
+
+Impressed by Yusuf's wisdom, Pharaoh made him in charge of Egypt's food storage. Yusuf prepared for the famine and saved many lives.
+
+When his brothers came to Egypt seeking food during the famine, Yusuf revealed his identity and forgave them, showing the beauty of mercy and forgiveness.`,
+      moral: "This story teaches us about patience in hardship, trusting Allah's plan, the power of forgiveness, and that Allah elevates those who remain righteous."
+    },
+    ar: {
+      title: "النبي يوسف عليه السلام - الأحلام والمغفرة",
+      content: `كان النبي يوسف عليه السلام الابن المحبوب للنبي يعقوب عليه السلام. عندما كان يوسف صغيراً، رأى حلماً بأحد عشر كوكباً والشمس والقمر تسجد له.
+
+غار إخوته من حب أبيهم ليوسف. ألقوه في بئر وأخبروا أباهم أن ذئباً قتله.
+
+وجدت قافلة يوسف وباعته عبداً في مصر. رغم مصاعبه، بقي يوسف مؤمناً بالله وكان معروفاً بصدقه.
+
+بارك الله يوسف بقدرة تفسير الأحلام. عندما رأى فرعون أحلاماً مُقلقة، فسرها يوسف بأنها تعني سبع سنوات من الخير تتبعها سبع سنوات من المجاعة.
+
+أُعجب فرعون بحكمة يوسف، فجعله مسؤولاً عن تخزين طعام مصر. استعد يوسف للمجاعة وأنقذ أرواحاً كثيرة.
+
+عندما جاء إخوته إلى مصر طلباً للطعام أثناء المجاعة، كشف يوسف عن هويته وسامحهم، مُظهراً جمال الرحمة والمغفرة.`,
+      moral: "تعلمنا هذه القصة عن الصبر في المحن والثقة بخطة الله وقوة المغفرة، وأن الله يرفع من يبقى صالحاً."
+    }
+  }
+=======
+  5: {
+    en: {
+      title: "Prophet Yusuf (AS) - Dreams and Forgiveness",
+      content: `Prophet Yusuf (AS) was the beloved son of Prophet Yaqub (AS). When Yusuf was young, he had a dream of eleven stars, the sun, and moon bowing to him.
+
+His brothers became jealous of their father's love for Yusuf. They threw him into a well and told their father a wolf had killed him.
+
+A caravan found Yusuf and sold him as a slave in Egypt. Despite his hardships, Yusuf remained faithful to Allah and was known for his honesty.
+
+Allah blessed Yusuf with the ability to interpret dreams. When Pharaoh had troubling dreams, Yusuf explained they meant seven years of plenty followed by seven years of famine.
+
+Impressed by Yusuf's wisdom, Pharaoh made him in charge of Egypt's food storage. Yusuf prepared for the famine and saved many lives.
+
+When his brothers came to Egypt seeking food during the famine, Yusuf revealed his identity and forgave them, showing the beauty of mercy and forgiveness.`,
+      moral: "This story teaches us about patience in hardship, trusting Allah's plan, the power of forgiveness, and that Allah elevates those who remain righteous."
+    },
+    ar: {
+      title: "النبي يوسف عليه السلام - الأحلام والمغفرة",
+      content: `كان النبي يوسف عليه السلام الابن المحبوب للنبي يعقوب عليه السلام. عندما كان يوسف صغيراً، رأى حلماً بأحد عشر كوكباً والشمس والقمر تسجد له.
+
+غار إخوته من حب أبيهم ليوسف. ألقوه في بئر وأخبروا أباهم أن ذئباً قتله.
+
+وجدت قافلة يوسف وباعته عبداً في مصر. رغم مصاعبه، بقي يوسف مؤمناً بالله وكان معروفاً بصدقه.
+
+بارك الله يوسف بقدرة تفسير الأحلام. عندما رأى فرعون أحلاماً مُقلقة، فسرها يوسف بأنها تعني سبع سنوات من الخير تتبعها سبع سنوات من المجاعة.
+
+أُعجب فرعون بحكمة يوسف، فجعله مسؤولاً عن تخزين طعام مصر. استعد يوسف للمجاعة وأنقذ أرواحاً كثيرة.
+
+عندما جاء إخوته إلى مصر طلباً للطعام أثناء المجاعة، كشف يوسف عن هويته وسامحهم، مُظهراً جمال الرحمة والمغفرة.`,
+      moral: "تعلمنا هذه القصة عن الصبر في المحن والثقة بخطة الله وقوة المغفرة، وأن الله يرفع من يبقى صالحاً."
+    }
+  },
+  6: {
+    en: {
+      title: "Prophet Sulaiman (AS) - The Wise King",
+      content: `Prophet Sulaiman (AS) was known for his wisdom and ability to communicate with animals and jinn. Allah granted him a kingdom like no other.
+
+He judged fairly among his people and was loved for his kindness and justice. Sulaiman could understand the language of birds and ants.
+
+One day, he heard an ant warning others to hide from his approaching army. He smiled, showing his care for even the smallest creatures.
+
+Sulaiman's story teaches us about wisdom, justice, and compassion for all of Allah's creations.`,
+      moral: "This story teaches us about wisdom, justice, and compassion."
+    },
+    ar: {
+      title: "النبي سليمان عليه السلام - الملك الحكيم",
+      content: `كان النبي سليمان عليه السلام معروفاً بحكمته وقدرته على التواصل مع الحيوانات والجن. منح الله له مملكة لا مثيل لها.
+
+كان يحكم بالعدل بين قومه وكان محبوباً بسبب لطفه وعدله. كان سليمان يفهم لغة الطيور والنمل.
+
+في يوم من الأيام، سمع نملة تحذر الآخرين من جيشه القادم. ابتسم، مظهراً اهتمامه حتى بأصغر المخلوقات.
+
+تعلمنا قصة سليمان عن الحكمة والعدل والرحمة لجميع مخلوقات الله.`,
+      moral: "تعلمنا هذه القصة عن الحكمة والعدل والرحمة."
+    }
+  },
+  7: {
+    en: {
+      title: "Prophet Dawud (AS) - The Brave Warrior",
+      content: `Prophet Dawud (AS) was a brave warrior and a king who ruled with justice. Allah gave him the ability to soften iron with his hands.
+
+He was known for his beautiful voice and his devotion to Allah. Dawud defeated Goliath, a giant warrior, with a single stone.
+
+His story teaches us about courage, faith, and the power of prayer.`,
+      moral: "This story teaches us about courage, faith, and prayer."
+    },
+    ar: {
+      title: "النبي داود عليه السلام - المحارب الشجاع",
+      content: `كان النبي داود عليه السلام محارباً شجاعاً وملكاً حكم بالعدل. أعطاه الله القدرة على تليين الحديد بيديه.
+
+كان معروفاً بصوته الجميل وتفانيه في عبادة الله. هزم داود جالوت، المحارب العملاق، بحجر واحد.
+
+تعلمنا قصته عن الشجاعة والإيمان وقوة الصلاة.`,
+      moral: "تعلمنا هذه القصة عن الشجاعة والإيمان والصلاة."
+    }
+  }
+}
