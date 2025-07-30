@@ -78,45 +78,101 @@ After the flood ended, the ark rested on Mount Judi. Noah and those with him sta
   },
   3: {
     en: {
-      title: "Prophet Idris (AS) - The Truthful",
-      content: `Prophet Idris (AS) was known for his truthfulness and devotion to Allah.
+      title: "Prophet Ibrahim (AS) - The Friend of Allah",
+      content: `Prophet Ibrahim (AS) was born among people who worshipped idols made of stone and wood. Even as a young man, he wondered how these lifeless objects could be gods.
 
-He was one of the earliest prophets and was given wisdom and knowledge.
+One day, when his people went to a festival, Ibrahim broke all the idols except the largest one. When they returned and asked who did this, he pointed to the big idol.
 
-His story teaches us about honesty, wisdom, and faith.`,
-      moral: "This story teaches us about honesty, wisdom, and faith."
+"Ask it yourself if it can speak," Ibrahim said, showing them how foolish it was to worship something that couldn't even protect itself.
+
+His people became angry and threw him into a huge fire. But Allah commanded the fire: "Be cool and safe for Ibrahim." The fire did not harm him at all.
+
+Later, Allah tested Ibrahim's faith by asking him to sacrifice his beloved son Ismail. Ibrahim was ready to obey, but Allah stopped him and provided a ram instead.
+
+Ibrahim and Ismail built the Kaaba in Mecca, a house of worship for Allah that millions visit today.`,
+      moral: "This story teaches us about true faith, courage to stand for truth, complete trust in Allah, and that Allah always rewards those who submit to Him."
     },
     ar: {
-      title: "النبي إدريس عليه السلام - الصدوق",
-      content: `كان النبي إدريس عليه السلام معروفاً بصدقه وتفانيه في عبادة الله.
+      title: "النبي إبراهيم عليه السلام - خليل الله",
+      content: `وُلد النبي إبراهيم عليه السلام بين قوم يعبدون أصناماً من حجر وخشب. حتى وهو شاب، تساءل كيف يمكن لهذه الأشياء الجامدة أن تكون آلهة.
 
-كان من أوائل الأنبياء وأُعطي الحكمة والمعرفة.
+في يوم ذهب فيه قومه إلى مهرجان، كسر إبراهيم جميع الأصنام إلا أكبرها. عندما عادوا وسألوا من فعل هذا، أشار إلى الصنم الكبير.
 
-تعلمنا قصته عن الصدق والحكمة والإيمان.`,
-      moral: "تعلمنا هذه القصة عن الصدق والحكمة والإيمان."
+"اسألوه بأنفسكم إن كان يستطيع الكلام"، قال إبراهيم، مُظهراً لهم مدى حماقة عبادة شيء لا يستطيع حتى حماية نفسه.
+
+غضب قومه وألقوه في نار عظيمة. لكن الله أمر النار: "كوني برداً وسلاماً على إبراهيم". لم تؤذه النار إطلاقاً.
+
+لاحقاً، اختبر الله إيمان إبراهيم بأن طلب منه التضحية بابنه الحبيب إسماعيل. كان إبراهيم مستعداً للطاعة، لكن الله أوقفه ووفر كبشاً بدلاً من ذلك.
+
+بنى إبراهيم وإسماعيل الكعبة في مكة، بيت عبادة لله يزوره الملايين اليوم.`,
+      moral: "تعلمنا هذه القصة عن الإيمان الحقيقي والشجاعة للدفاع عن الحق والثقة الكاملة بالله، وأن الله يكافئ دائماً من يخضع له."
     }
   },
   4: {
     en: {
-      title: "Prophet Hud (AS) - The Patient Caller",
-      content: `Prophet Hud (AS) was sent to the people of 'Ad to call them to worship Allah and abandon idolatry.
+      title: "Prophet Musa (AS) - The Staff and the Sea",
+      content: `Prophet Musa (AS) was born when Pharaoh was killing all newborn boys of the Israelites. His mother put baby Musa in a basket and floated it down the Nile river.
 
-He was patient and persistent despite their rejection.
+Pharaoh's wife found the basket and decided to raise Musa as her own son in the palace, not knowing he was the one destined to challenge Pharaoh.
 
-His story teaches us about patience, faith, and perseverance.`,
-      moral: "This story teaches us about patience, faith, and perseverance."
+When Musa grew up, Allah called him to be a prophet. Allah gave him miraculous signs: his staff would turn into a snake, and his hand would glow with divine light.
+
+Musa went to Pharaoh and asked him to free the Israelites and worship Allah alone. But Pharaoh was proud and refused, claiming to be a god himself.
+
+Allah sent ten plagues upon Egypt, but Pharaoh's heart remained hard. Finally, Musa led the Israelites out of Egypt.
+
+When they reached the Red Sea with Pharaoh's army chasing them, Allah commanded Musa to strike the sea with his staff. The sea split into two, creating a dry path for them to cross safely.`,
+      moral: "This story teaches us that Allah protects the oppressed, that no tyrant can overcome Allah's will, and that faith and trust in Allah can overcome any obstacle."
     },
     ar: {
-      title: "النبي هود عليه السلام - الداعي الصبور",
-      content: `أُرسل النبي هود عليه السلام إلى قوم عاد ليدعوهم لعبادة الله وترك عبادة الأصنام.
+      title: "النبي موسى عليه السلام - العصا والبحر",
+      content: `وُلد النبي موسى عليه السلام عندما كان فرعون يقتل جميع المواليد الذكور من بني إسرائيل. وضعت أمه الطفل موسى في سلة وأرسلتها في نهر النيل.
 
-كان صبوراً ومثابراً رغم رفضهم.
+وجدت زوجة فرعون السلة وقررت تربية موسى كابنها في القصر، دون أن تعلم أنه المُقدَّر له أن يتحدى فرعون.
 
-تعلمنا قصته عن الصبر والإيمان والمثابرة.`,
-      moral: "تعلمنا هذه القصة عن الصبر والإيمان والمثابرة."
+عندما كبر موسى، دعاه الله ليكون نبياً. أعطاه الله آيات معجزة: عصاه تتحول إلى ثعبان، ويده تتوهج بنور إلهي.
+
+ذهب موسى إلى فرعون وطلب منه تحرير بني إسرائيل وعبادة الله وحده. لكن فرعون كان متكبراً ورفض، مدعياً أنه إله.
+
+أرسل الله عشر ضربات على مصر، لكن قلب فرعون ظل قاسياً. أخيراً، قاد موسى بني إسرائيل خارج مصر.
+
+عندما وصلوا البحر الأحمر وجيش فرعون يطاردهم، أمر الله موسى أن يضرب البحر بعصاه. انشق البحر إلى اثنين، مُكوِّناً طريقاً جافاً ليعبروا بأمان.`,
+      moral: "تعلمنا هذه القصة أن الله يحمي المظلومين، وأنه لا يمكن لأي طاغية أن يتغلب على إرادة الله، وأن الإيمان والثقة بالله يمكن أن يتغلبا على أي عقبة."
     }
   },
   5: {
+    en: {
+      title: "Prophet Yusuf (AS) - Dreams and Forgiveness",
+      content: `Prophet Yusuf (AS) was the beloved son of Prophet Yaqub (AS). When Yusuf was young, he had a dream of eleven stars, the sun, and moon bowing to him.
+
+His brothers became jealous of their father's love for Yusuf. They threw him into a well and told their father a wolf had killed him.
+
+A caravan found Yusuf and sold him as a slave in Egypt. Despite his hardships, Yusuf remained faithful to Allah and was known for his honesty.
+
+Allah blessed Yusuf with the ability to interpret dreams. When Pharaoh had troubling dreams, Yusuf explained they meant seven years of plenty followed by seven years of famine.
+
+Impressed by Yusuf's wisdom, Pharaoh made him in charge of Egypt's food storage. Yusuf prepared for the famine and saved many lives.
+
+When his brothers came to Egypt seeking food during the famine, Yusuf revealed his identity and forgave them, showing the beauty of mercy and forgiveness.`,
+      moral: "This story teaches us about patience in hardship, trusting Allah's plan, the power of forgiveness, and that Allah elevates those who remain righteous."
+    },
+    ar: {
+      title: "النبي يوسف عليه السلام - الأحلام والمغفرة",
+      content: `كان النبي يوسف عليه السلام الابن المحبوب للنبي يعقوب عليه السلام. عندما كان يوسف صغيراً، رأى حلماً بأحد عشر كوكباً والشمس والقمر تسجد له.
+
+غار إخوته من حب أبيهم ليوسف. ألقوه في بئر وأخبروا أباهم أن ذئباً قتله.
+
+وجدت قافلة يوسف وباعته عبداً في مصر. رغم مصاعبه، بقي يوسف مؤمناً بالله وكان معروفاً بصدقه.
+
+بارك الله يوسف بقدرة تفسير الأحلام. عندما رأى فرعون أحلاماً مُقلقة، فسرها يوسف بأنها تعني سبع سنوات من الخير تتبعها سبع سنوات من المجاعة.
+
+أُعجب فرعون بحكمة يوسف، فجعله مسؤولاً عن تخزين طعام مصر. استعد يوسف للمجاعة وأنقذ أرواحاً كثيرة.
+
+عندما جاء إخوته إلى مصر طلباً للطعام أثناء المجاعة، كشف يوسف عن هويته وسامحهم، مُظهراً جمال الرحمة والمغفرة.`,
+      moral: "تعلمنا هذه القصة عن الصبر في المحن والثقة بخطة الله وقوة المغفرة، وأن الله يرفع من يبقى صالحاً."
+    }
+  },
+  6: {
     en: {
       title: "Prophet Saleh (AS) - The Honest Messenger",
       content: `Prophet Saleh (AS) was sent to the people of Thamud to call them to worship Allah and live righteously.
@@ -134,30 +190,6 @@ His story teaches us about honesty, faith, and the consequences of disbelief.`,
 
 تعلمنا قصته عن الأمانة والإيمان وعواقب الكفر.`,
       moral: "تعلمنا هذه القصة عن الأمانة والإيمان والعواقب."
-    }
-  },
-  6: {
-    en: {
-      title: "Prophet Sulaiman (AS) - The Wise King",
-      content: `Prophet Sulaiman (AS) was known for his wisdom and ability to communicate with animals and jinn. Allah granted him a kingdom like no other.
-
-He judged fairly among his people and was loved for his kindness and justice. Sulaiman could understand the language of birds and ants.
-
-One day, he heard an ant warning others to hide from his approaching army. He smiled, showing his care for even the smallest creatures.
-
-Sulaiman's story teaches us about wisdom, justice, and compassion for all of Allah's creations.`,
-      moral: "This story teaches us about wisdom, justice, and compassion."
-    },
-    ar: {
-      title: "النبي سليمان عليه السلام - الملك الحكيم",
-      content: `كان النبي سليمان عليه السلام معروفاً بحكمته وقدرته على التواصل مع الحيوانات والجن. منح الله له مملكة لا مثيل لها.
-
-كان يحكم بالعدل بين قومه وكان محبوباً بسبب لطفه وعدله. كان سليمان يفهم لغة الطيور والنمل.
-
-في يوم من الأيام، سمع نملة تحذر الآخرين من جيشه القادم. ابتسم، مظهراً اهتمامه حتى بأصغر المخلوقات.
-
-تعلمنا قصة سليمان عن الحكمة والعدل والرحمة لجميع مخلوقات الله.`,
-      moral: "تعلمنا هذه القصة عن الحكمة والعدل والرحمة."
     }
   },
   7: {
@@ -338,6 +370,238 @@ His story teaches us about faith, devotion, and standing firm in belief.`,
 
 تعلمنا قصته عن الإيمان والورع والثبات في العقيدة.`,
       moral: "تعلمنا هذه القصة عن الإيمان والورع والثبات."
+    }
+  },
+  16: {
+    en: {
+      title: "Prophet Al-Yasa (AS) - The Successor",
+      content: `Prophet Al-Yasa (AS) was the successor of Prophet Ilyas and continued calling people to worship Allah.
+
+He was known for his patience and dedication.
+
+His story teaches us about perseverance, faith, and leadership.`,
+      moral: "This story teaches us about perseverance, faith, and leadership."
+    },
+    ar: {
+      title: "النبي اليسع عليه السلام - الخليفة",
+      content: `كان النبي اليسع عليه السلام خليفة النبي إلياس واستمر في دعوة الناس لعبادة الله.
+
+كان معروفاً بصبره وتفانيه.
+
+تعلمنا قصته عن المثابرة والإيمان والقيادة.`,
+      moral: "تعلمنا هذه القصة عن المثابرة والإيمان والقيادة."
+    }
+  },
+  17: {
+    en: {
+      title: "Prophet Yunus (AS) - The Patient One",
+      content: `Prophet Yunus (AS) was swallowed by a big fish after trying to flee from his mission.
+
+He prayed to Allah for forgiveness and was saved.
+
+His story teaches us about repentance, patience, and Allah's mercy.`,
+      moral: "This story teaches us about repentance, patience, and mercy."
+    },
+    ar: {
+      title: "النبي يونس عليه السلام - الصبور",
+      content: `ابتلعه حوت كبير بعد محاولته الهروب من مهمته.
+
+دعا الله للتوبة ونجا.
+
+تعلمنا قصته عن التوبة والصبر ورحمة الله.`,
+      moral: "تعلمنا هذه القصة عن التوبة والصبر والرحمة."
+    }
+  },
+  18: {
+    en: {
+      title: "Prophet Zakariyya (AS) - The Faithful Servant",
+      content: `Prophet Zakariyya (AS) was a devoted servant of Allah who prayed for a child in his old age.
+      
+Allah granted him a son, Yahya (John), as a blessing.
+
+His story teaches us about faith, prayer, and miracles.`,
+      moral: "This story teaches us about faith, prayer, and miracles."
+    },
+    ar: {
+      title: "النبي زكريا عليه السلام - العبد الصالح",
+      content: `كان النبي زكريا عليه السلام عبدًا صالحًا لله دعا لإنجاب ولد في شيخوخته.
+      
+وهبه الله ابناً، يحيى، كنعمة.
+
+تعلمنا قصته عن الإيمان والدعاء والمعجزات.`
+    }
+  },
+  19: {
+    en: {
+      title: "Prophet Yahya (AS) - The Righteous",
+      content: `Prophet Yahya (AS) was known for his righteousness and devotion to Allah.
+
+He called people to repentance and living a pure life.
+
+His story teaches us about righteousness, repentance, and dedication.`,
+      moral: "This story teaches us about righteousness, repentance, and dedication."
+    },
+    ar: {
+      title: "النبي يحيى عليه السلام - الصالح",
+      content: `كان النبي يحيى عليه السلام معروفاً بصلاحه وتفانيه في عبادة الله.
+
+دعا الناس إلى التوبة وعيش حياة طاهرة.
+
+تعلمنا قصته عن الصلاح والتوبة والتفاني.`
+    }
+  },
+  20: {
+    en: {
+      title: "Prophet Isa (AS) - The Messenger of Allah",
+      content: `Prophet Isa (AS) was sent to guide the Children of Israel with miracles and the message of Allah.
+
+He preached compassion, forgiveness, and faith in one God.
+
+His story teaches us about compassion, faith, and miracles.`,
+      moral: "This story teaches us about compassion, faith, and miracles."
+    },
+    ar: {
+      title: "النبي عيسى عليه السلام - رسول الله",
+      content: `أُرسل النبي عيسى عليه السلام لهداية بني إسرائيل بالمعجزات ورسالة الله.
+
+وعظ بالرحمة والمغفرة والإيمان بالله الواحد.
+
+تعلمنا قصته عن الرحمة والإيمان والمعجزات.`
+    }
+  },
+  21: {
+    en: {
+      title: "Prophet Muhammad (PBUH) - The Final Messenger",
+      content: `Prophet Muhammad (PBUH) was the last prophet sent by Allah to guide humanity.
+
+He received the Quran and taught the message of Islam.
+
+His story teaches us about faith, mercy, and guidance.`,
+      moral: "This story teaches us about faith, mercy, and guidance."
+    },
+    ar: {
+      title: "النبي محمد صلى الله عليه وسلم - الرسول الأخير",
+      content: `كان النبي محمد صلى الله عليه وسلم آخر نبي أرسله الله لهداية البشرية.
+
+تلقى القرآن وعلّم رسالة الإسلام.
+
+تعلمنا قصته عن الإيمان والرحمة والهداية.`
+    }
+  },
+  22: {
+    en: {
+      title: "Prophet Lut (AS) - The Righteous",
+      content: `Prophet Lut (AS) was sent to the people of Sodom and Gomorrah to call them to righteousness and warn them of Allah's punishment.
+
+He preached against their sinful behavior and urged them to repent.
+
+His story teaches us about righteousness, warning, and the consequences of sin.`,
+      moral: "This story teaches us about righteousness, warning, and repentance."
+    },
+    ar: {
+      title: "النبي لوط عليه السلام - الصالح",
+      content: `أُرسل النبي لوط عليه السلام إلى قوم سدوم وعمورة ليدعوهم إلى الصلاح ويحذرهم من عذاب الله.
+
+وعظ ضد سلوكهم الخاطئ وحثهم على التوبة.
+
+تعلمنا قصته عن الصلاح والتحذير وعواقب الذنوب.`,
+      moral: "تعلمنا هذه القصة عن الصلاح والتحذير والتوبة."
+    }
+  },
+  23: {
+    en: {
+      title: "Prophet Harun (AS) - The Supportive Brother",
+      content: `Prophet Harun (AS) was the brother of Prophet Musa (AS) and helped him in delivering Allah's message to Pharaoh.
+
+He was known for his wisdom and patience.
+
+His story teaches us about support, patience, and faith.`,
+      moral: "This story teaches us about support, patience, and faith."
+    },
+    ar: {
+      title: "النبي هارون عليه السلام - الأخ الداعم",
+      content: `كان النبي هارون عليه السلام أخا النبي موسى عليه السلام وساعده في تبليغ رسالة الله إلى فرعون.
+
+كان معروفاً بحكمته وصبره.
+
+تعلمنا قصته عن الدعم والصبر والإيمان.`,
+      moral: "تعلمنا هذه القصة عن الدعم والصبر والإيمان."
+    }
+  },
+  24: {
+    en: {
+      title: "Prophet Zakariyya (AS) - The Faithful Servant",
+      content: `Prophet Zakariyya (AS) was a devoted servant of Allah who prayed for a child in his old age.
+      
+Allah granted him a son, Yahya (John), as a blessing.
+
+His story teaches us about faith, prayer, and miracles.`,
+      moral: "This story teaches us about faith, prayer, and miracles."
+    },
+    ar: {
+      title: "النبي زكريا عليه السلام - العبد الصالح",
+      content: `كان النبي زكريا عليه السلام عبدًا صالحًا لله دعا لإنجاب ولد في شيخوخته.
+      
+وهبه الله ابناً، يحيى، كنعمة.
+
+تعلمنا قصته عن الإيمان والدعاء والمعجزات.`
+    }
+  },
+  25: {
+    en: {
+      title: "Prophet Yahya (AS) - The Righteous",
+      content: `Prophet Yahya (AS) was known for his righteousness and devotion to Allah.
+
+He called people to repentance and living a pure life.
+
+His story teaches us about righteousness, repentance, and dedication.`,
+      moral: "This story teaches us about righteousness, repentance, and dedication."
+    },
+    ar: {
+      title: "النبي يحيى عليه السلام - الصالح",
+      content: `كان النبي يحيى عليه السلام معروفاً بصلاحه وتفانيه في عبادة الله.
+
+دعا الناس إلى التوبة وعيش حياة طاهرة.
+
+تعلمنا قصته عن الصلاح والتوبة والتفاني.`
+    }
+  },
+  26: {
+    en: {
+      title: "Prophet Isa (AS) - The Messenger of Allah",
+      content: `Prophet Isa (AS) was sent to guide the Children of Israel with miracles and the message of Allah.
+
+He preached compassion, forgiveness, and faith in one God.
+
+His story teaches us about compassion, faith, and miracles.`,
+      moral: "This story teaches us about compassion, faith, and miracles."
+    },
+    ar: {
+      title: "النبي عيسى عليه السلام - رسول الله",
+      content: `أُرسل النبي عيسى عليه السلام لهداية بني إسرائيل بالمعجزات ورسالة الله.
+
+وعظ بالرحمة والمغفرة والإيمان بالله الواحد.
+
+تعلمنا قصته عن الرحمة والإيمان والمعجزات.`
+    }
+  },
+  27: {
+    en: {
+      title: "Prophet Muhammad (PBUH) - The Final Messenger",
+      content: `Prophet Muhammad (PBUH) was the last prophet sent by Allah to guide humanity.
+
+He received the Quran and taught the message of Islam.
+
+His story teaches us about faith, mercy, and guidance.`,
+      moral: "This story teaches us about faith, mercy, and guidance."
+    },
+    ar: {
+      title: "النبي محمد صلى الله عليه وسلم - الرسول الأخير",
+      content: `كان النبي محمد صلى الله عليه وسلم آخر نبي أرسله الله لهداية البشرية.
+
+تلقى القرآن وعلّم رسالة الإسلام.
+
+تعلمنا قصته عن الإيمان والرحمة والهداية.`
     }
   }
 }
